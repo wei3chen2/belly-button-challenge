@@ -4,13 +4,10 @@ The deploy link
 
 https://wei3chen2.github.io/plotly-challenge-belly-button/
 
-<img width="129" alt="MetaDataDemo" src="https://user-images.githubusercontent.com/120448264/231983452-db46f17a-7eaa-40cd-b443-95ec6b2a4f2b.png">
+An interactive dashboard is built to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 
-![Bar](https://user-images.githubusercontent.com/120448264/231983755-c0731501-60d4-4308-aaac-d5e9a6c82cce.png)
+The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
-![Gauge](https://user-images.githubusercontent.com/120448264/231983947-6eef10b5-c4de-4e74-aa23-c1268b762903.png)
-
-![Bubble](https://user-images.githubusercontent.com/120448264/231984064-708ca05d-8d75-476c-ad0a-ab6536866767.png)
 
 
 
